@@ -1,2 +1,2 @@
 const test = 2;
-const dwdwa = function()
+const dwdwa = 543;
